@@ -1,16 +1,24 @@
-# exp_track
+# Exp Track
 
-A new Flutter project.
+A simple yet very useful, cross-platform mobile application that let's you manage the your expenses, and analyze them graphicaly. 
 
-## Getting Started
+## Key Features
+- ✋ Multiple expense Categories.
+- 🌓 Available in both light & dark mode.
+- 📶 Graphical expense represenatation.
+- 🫶 User-friendly UI.
 
-This project is a starting point for a Flutter application.
+## App Overview
 
-A few resources to get you started if this is your first Flutter project:
+![Screenshot_1728123532](https://github.com/user-attachments/assets/b2590171-466a-4c9b-af05-418017aeaddc)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+![Screenshot_1728123559](https://github.com/user-attachments/assets/80378ca0-3b08-4340-afc9-ecbde33fa67e)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1728123431](https://github.com/user-attachments/assets/11d22102-a707-4c79-9a5c-a588307f49c4)
+
+![Screenshot_1728123562](https://github.com/user-attachments/assets/0629bf38-9013-4f0a-a656-77878801676e)
+
+![Screenshot_1728123527](https://github.com/user-attachments/assets/667ee5cc-bccc-4c70-b68c-a8bfc1f63152)
+## 
+# Thank You
+
